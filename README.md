@@ -1,5 +1,13 @@
 # Test Practico de desarrollo en Django
 
+## Tareas 
+
+Las tareas que se solicitaron se encuentran dentro de los siguientes archivos:
+
+- Tarea 1: `Tarea1/migrations/0002_auto_20230517_1358.py`, dentro de este archivo se encuentra la funcion que obtiene los datos de la api y los guarda dentro de la base de datos.
+- Tarea 2: `main.py`, se encuentra en la raiz del repositorio y cuenta con el script utilizado para obtener la informacion, los transforma de tal manera que se adapte al modelo utilizado y que pueda agregarse utilizando el comando de `loaddata`
+
+
 ## Descripcion
 Para cada una de las tareas se utilizo dentro de un proyecto de Django. El cual se generaron modelos y funciones adecuadas deacuerdo a las fuentes de informacion y se generaron dentro de la pagina de administracion una vista sobre los modelos de datos.
 
