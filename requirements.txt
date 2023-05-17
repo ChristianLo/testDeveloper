@@ -1,0 +1,4 @@
+Django==4.1.6
+requests==2.27.1
+beautifulsoup4==4.10.0
+pycopg2-binary==2.9.1
